@@ -42,6 +42,7 @@ Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate
 <!-- Abstract -->
 ## Abstract
 Your abstract here: 50 words here.
+
 As AI integrates into daily life, its misinterpretations reveal limitations and risks. This paper examines AI-generated errors through a case study of a misinterpreted cooking request. These mistakes underscore the need for human oversight, as unchecked AI content can lead to misinformation, flawed decisions, and misplaced trust in algorithms.
 
 Example of how to make a list:
@@ -62,6 +63,7 @@ Figure 2. Related works in this domain.
 ## Introduction and Related Works
 
 Your Introduction and Related Works here: 200 words here.
+
 As an artist carving my own path in the creative world, I constantly push myself to think beyond conventions and expand the boundaries of my art. However, with the rise of generative AI, maintaining authenticity has become increasingly challenging.
 
 I’m drawn to this concept because it reflects the ongoing struggle between human creativity and machine-generated content. AI’s ability to mimic artistic styles raises questions about originality, ownership, and artistic intent. Over time, I’ve observed how AI has evolved from a mere tool to a collaborator—or even a competitor—in creative fields.
@@ -88,6 +90,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ## Methodology
 
 Your Methodology and Related Works here: 200 words here.
+
+To achieve my artistic vision, I started by outlining my thoughts on Artificial Intelligence, focusing on how human critical thinking is still essential when working with AI. I chose to explore this theme through yonkoma, a four-panel manga style known for its concise, humorous storytelling.
+My process began with research into yonkoma's structure, which helped me design the flow of the narrative. I then created traditional sketches for the characters and overall composition. This step was important in figuring out a basic composition and understanding of flow. 
+For dialogue, I used ChatGPT to iterate different conversation options that aligned with my theme of basic common sense. I also generated an AI image for one of the panels, using AI to enhance the visuals without compromising the hand-drawn aesthetic. 
+
 
 [![4-comma][images-fig3]](https://example.com)
 
