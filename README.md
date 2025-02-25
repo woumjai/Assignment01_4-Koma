@@ -62,6 +62,19 @@ Figure 2. Related works in this domain.
 ## Introduction and Related Works
 
 Your Introduction and Related Works here: 200 words here.
+As an artist carving my own path in the creative world, I constantly push myself to think beyond conventions and expand the boundaries of my art. However, with the rise of generative AI, maintaining authenticity has become increasingly challenging.
+
+I’m drawn to this concept because it reflects the ongoing struggle between human creativity and machine-generated content. AI’s ability to mimic artistic styles raises questions about originality, ownership, and artistic intent. Over time, I’ve observed how AI has evolved from a mere tool to a collaborator—or even a competitor—in creative fields.
+Manga is an ideal medium to explore this tension because of its expressive visual language and ability to balance humor, drama, and critique. Through dynamic paneling, exaggerated expressions, and visual metaphors, I can illustrate AI’s occasional absurdities while emphasizing the irreplaceable human touch in art.
+To create these images, I will use digital illustration tools like adobe photoshop alongside AI-assisted design programs. While digital tools enhance efficiency and precision, AI-generated elements pose both opportunities and challenges—sometimes aiding creativity, but also raising concerns about artistic integrity. The history of digital illustration, from early raster programs to AI-driven tools, underscores this evolving relationship between artists and technology.
+
+What draws you to this concept, and how has it developed
+over time? How do you intend to convey your idea through
+manga, and why do you believe this is the most effective
+medium? What technology will you employ to create these
+images or concepts, and how has this technology been
+beneficial or challenging? Please include the development and
+history of the technology you are using.
 
 Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty [1], and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution [2] that my work highlights in my 4-comma cell number 4. 
 Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design [3] and my work show the influence of that visual in 4-comma cell number 3. 
@@ -111,9 +124,9 @@ Figure 6. description for Figure 6
 <!-- CONTACT -->
 ## Contact
 
-Your Name - email@tamu.edu
+Carolyn Hua - chua@tamu.edu
 
-Personal Website: [https://website.com](https://website.com)
+Personal Website: [https://website.com]([https://carhua.myportfolio.com/))
 
 
 
