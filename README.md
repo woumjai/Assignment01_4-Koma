@@ -42,6 +42,7 @@ Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate
 <!-- Abstract -->
 ## Abstract
 Your abstract here: 50 words here.
+As AI integrates into daily life, its misinterpretations reveal limitations and risks. This paper examines AI-generated errors through a case study of a misinterpreted cooking request. These mistakes underscore the need for human oversight, as unchecked AI content can lead to misinformation, flawed decisions, and misplaced trust in algorithms.
 
 Example of how to make a list:
 There are many great README templates available on GitHub.
