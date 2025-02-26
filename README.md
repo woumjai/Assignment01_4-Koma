@@ -21,10 +21,10 @@ Assignment 1, VIZA 626 Generative Art &amp; Design (Spring 2025)
 <div align="center">
   </a>
 
-  <h3 align="center">4-Comma: My Title Here</h3>
+  <h3 align="center">4-Comma: First Name: Ei | Last Name: Eye</h3>
 
   <p align="center">
-    Short two sentence project desctiption here!
+    I created a four-panel yonkoma comic where a stick figure interacts with an AI-generated image that has an absurd number of fingers. The humor      comes from the stick figure earnestly commenting on how realistic the AI image looks, oblivious to its glaring anatomical mistakes.
     <br />
     <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
