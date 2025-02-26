@@ -133,7 +133,7 @@ Figure 6. description for Figure 6
 
 Carolyn Hua - chua@tamu.edu
 
-Personal Website: [https://carhua.myportfolio.com]([https://carhua.myportfolio.com/))
+Personal Website: [https://carhua.myportfolio.com]([https://carhua.myportfolio.com/])
 
 
 
