@@ -29,7 +29,7 @@ Assignment 1, VIZA 626 Generative Art &amp; Design (Spring 2025)
     <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
-    <a href="https://website.com">Your Name</a>
+    <a href="https://carhua.myportfolio.com">Carolyn Hua</a>
     &middot;
     <a href="https://sites.google.com/view/viza626/home">VIZA 626</a>
   </p>
