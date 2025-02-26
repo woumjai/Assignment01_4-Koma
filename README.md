@@ -41,9 +41,8 @@ Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate
 
 <!-- Abstract -->
 ## Abstract
-Your abstract here: 50 words here.
 
-As AI integrates into daily life, its misinterpretations reveal limitations and risks. This paper examines AI-generated errors through a case study of a misinterpreted cooking request. These mistakes underscore the need for human oversight, as unchecked AI content can lead to misinformation, flawed decisions, and misplaced trust in algorithms.
+This paper examines AI-generated errors through a case study of an image-generation mistake, where an AI-created portrait features an excessive number of fingers while maintaining realistic textures and lighting. These anatomical distortions reveal flaws in AI’s pattern recognition and inability to grasp human aesthetics, underscoring the need for oversight to prevent misinformation and misplaced trust.
 
 Example of how to make a list:
 There are many great README templates available on GitHub.
@@ -62,24 +61,13 @@ Figure 2. Related works in this domain.
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
-Your Introduction and Related Works here: 200 words here.
+As an artist, I constantly push myself to think beyond conventions and expand the boundaries of my work. However, with the rise of generative AI, maintaining authenticity has become increasingly challenging as AI blurs the line between human craftsmanship and machine production. Kate Crawford’s Atlas of AI explores how AI is not just a neutral tool but a system shaped by power, labor, and biases—raising concerns about its role in creative fields [1].
 
-As an artist carving my own path in the creative world, I constantly push myself to think beyond conventions and expand the boundaries of my art. However, with the rise of generative AI, maintaining authenticity has become increasingly challenging.
+AI’s ability to replicate artistic styles often leads to bizarre distortions—such as extra fingers or unnatural anatomy—while raising questions about originality and artistic intent. Over time, I’ve observed AI evolve from a simple tool to a collaborator—or even an unintentional parody—of artistic expression.
 
-I’m drawn to this concept because it reflects the ongoing struggle between human creativity and machine-generated content. AI’s ability to mimic artistic styles raises questions about originality, ownership, and artistic intent. Over time, I’ve observed how AI has evolved from a mere tool to a collaborator—or even a competitor—in creative fields.
-Manga is an ideal medium to explore this tension because of its expressive visual language and ability to balance humor, drama, and critique. Through dynamic paneling, exaggerated expressions, and visual metaphors, I can illustrate AI’s occasional absurdities while emphasizing the irreplaceable human touch in art.
-To create these images, I will use digital illustration tools like adobe photoshop alongside AI-assisted design programs. While digital tools enhance efficiency and precision, AI-generated elements pose both opportunities and challenges—sometimes aiding creativity, but also raising concerns about artistic integrity. The history of digital illustration, from early raster programs to AI-driven tools, underscores this evolving relationship between artists and technology.
+Manga is an ideal medium to explore this tension because of its expressive visual language and ability to balance humor, drama, and critique. Through dynamic paneling, exaggerated expressions, and visual metaphors, I can highlight AI’s absurdities while emphasizing the irreplaceable human touch in art.
 
-What draws you to this concept, and how has it developed
-over time? How do you intend to convey your idea through
-manga, and why do you believe this is the most effective
-medium? What technology will you employ to create these
-images or concepts, and how has this technology been
-beneficial or challenging? Please include the development and
-history of the technology you are using.
-
-Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty [1], and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution [2] that my work highlights in my 4-comma cell number 4. 
-Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design [3] and my work show the influence of that visual in 4-comma cell number 3. 
+Using digital illustration tools like Adobe Photoshop alongside AI-assisted design programs, I aim to examine both the opportunities and flaws of AI-generated content. As Crawford argues, AI is deeply embedded in social and economic structures, making its impact on art an urgent and complex issue.
 
 How to use subsection:
 
@@ -93,7 +81,7 @@ Your Methodology and Related Works here: 200 words here.
 
 To achieve my artistic vision, I started by outlining my thoughts on Artificial Intelligence, focusing on how human critical thinking is still essential when working with AI. I chose to explore this theme through yonkoma, a four-panel manga style known for its concise, humorous storytelling.
 My process began with research into yonkoma's structure, which helped me design the flow of the narrative. I then created traditional sketches for the characters and overall composition. This step was important in figuring out a basic composition and understanding of flow. 
-For dialogue, I used ChatGPT to iterate different conversation options that aligned with my theme of basic common sense. I also generated an AI image for one of the panels, using AI to enhance the visuals without compromising the hand-drawn aesthetic. 
+For dialogue, I used ChatGPT to iterate different conversation options that aligned with my theme of basic common sense. I also generated an AI image for one of the panels, using AI to enhance the visuals to bolster the narrative. 
 
 
 [![4-comma][images-fig3]](https://example.com)
@@ -107,12 +95,15 @@ Figure 4. description for Figure 5
 ## Result and Future Work
 Your Result and Future Work here: 100 words here.
 
+The outcome of my project successfully reflected my vision by using manga to highlight the tension between human creativity and AI-generated content. The humor and exaggerated visuals effectively illustrated the absurdities of AI, like its anatomical mistakes, while emphasizing the human touch. If I were to do it again, I would focus on a different narrative that better addresses the topic or push the outlandishness of the subject further. The project could be expanded by exploring other mediums or incorporating deeper narratives that challenge AI’s role in artistic authorship and originality.
+
 [![4-comma][images-fig5]](https://example.com)
 
 Figure 5. description for Figure 5
 
 ## Conclusion
-Your Conclusion here: 50 words here
+
+This project highlighted the uncanny flaws of AI-generated art, especially its tendency to create distorted anatomy, like extra fingers. The most memorable moment was crafting the stick figure’s oblivious reaction, emphasizing how AI errors can go unnoticed. This reinforced the need for critical awareness of AI’s limitations in creative fields.
 
 [![4-comma][images-fig6]](https://example.com)
 
@@ -120,7 +111,7 @@ Figure 6. description for Figure 6
 
 <!-- Bibliography -->
 ## Bibliography 
-[1] Galanter, Philip. "Generative art theory." A companion to digital art (2016): 146-180. *Copy of MLA format
+[1] Crawford, Kate. Atlas of Ai : Power, Politics, and the Planetary Costs of Artificial Intelligence. Yale University Press, 2021. EBSCOhost,     search.ebscohost.com/login.aspx?direct=true&db=cat08680a&AN=tauc.EBC6478659&site=eds-live&scope=site.
 
 [2] Kim, You-Jin, Misha Sra, and Tobias Höllerer. "Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater." 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2024.
 
