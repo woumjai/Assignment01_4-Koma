@@ -37,22 +37,12 @@ Assignment 1, VIZA 626 Generative Art &amp; Design (Spring 2025)
 
 [![4-comma][images-fig1]](https://example.com)
 
-Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate. *Ensure your image is high-definition, with a width greater than 3500 pixels. If your imafe is not wide enough, it will not fill the page!
+Figure 1. This is my 4-comma. The idea is to understand that while AI is increasingly getting more realistic, it's still not real and that we as a user still need to understand that anything out of AI can be considered an interpertation on life. 
 
 <!-- Abstract -->
 ## Abstract
 
 This paper examines AI-generated errors through a case study of an image-generation mistake, where an AI-created portrait features an excessive number of fingers while maintaining realistic textures and lighting. These anatomical distortions reveal flaws in AI’s pattern recognition and inability to grasp human aesthetics, underscoring the need for oversight to prevent misinformation and misplaced trust.
-
-Example of how to make a list:
-There are many great README templates available on GitHub.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 [![4-comma][images-fig2]](https://example.com)
 
@@ -84,9 +74,9 @@ My process began with research into yonkoma's structure, which helped me design 
 For dialogue, I used ChatGPT to iterate different conversation options that aligned with my theme of basic common sense. I also generated an AI image for one of the panels, using AI to enhance the visuals to bolster the narrative. 
 
 
-[![4-comma][images-fig3]](https://example.com)
+[![ChatGPT][images-fig3]](https://github.com/woumjai/Assignment01_4-Koma/blob/1f636db04657e4b7a585738164f96c2ed560336c/images/chatGPT_prompt.png)
 
-Figure 3. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
+Figure 3. ChatGPT responses for iteration on panel dialogue
 
 [![ChatGPT][images-fig4]](https://github.com/woumjai/Assignment01_4-Koma/blob/1f636db04657e4b7a585738164f96c2ed560336c/images/chatGPT_prompt.png)
 Figure 4. description for Figure 5
@@ -104,7 +94,7 @@ Figure 5. description for Figure 5
 
 This project highlighted the uncanny flaws of AI-generated art, especially its tendency to create distorted anatomy, like extra fingers. The most memorable moment was crafting the stick figure’s oblivious reaction, emphasizing how AI errors can go unnoticed. This reinforced the need for critical awareness of AI’s limitations in creative fields.
 
-[![4-comma][images-fig6]](https://example.com)
+[![EI_EYE][images-fig6]](https://github.com/woumjai/Assignment01_4-Koma/blob/f4d7f869926b42fbd30be4ae5b7badce8d34a68b/images/Firefly%20human%20figure%20with%2012%20fingers%20on%20one%20hand%20waving_%3Badd%20more%20fingers%20to%20the%20hand%201935.jpg)
 
 Figure 6. description for Figure 6
 
