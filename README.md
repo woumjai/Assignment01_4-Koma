@@ -26,7 +26,7 @@ Assignment 1, VIZA 626 Generative Art &amp; Design (Spring 2025)
   <p align="center">
     I created a four-panel yonkoma comic where a stick figure interacts with an AI-generated image that has actually has fingers. The humor      comes from the stick figure earnestly commenting on how realistic the AI image looks, oblivious to its glaring anatomical mistakes. They look down at their fingerless hands and realize that they can't really comment on what's real or not. 
     <br />
-    <a href="https://github.com/woumjai/Assignment01_4-Koma/blob/05457f40af5a264c95b8f2a12b95693420bd2b07/pdf First_Name_Ei_Last_Name_Eye.pdf"><strong>Link to PDF Report »</strong></a>
+    <a href="[https://github.com/woumjai/Assignment01_4-Koma/blob/05457f40af5a264c95b8f2a12b95693420bd2b07/pdf First_Name_Ei_Last_Name_Eye.pdf](https://github.com/woumjai/Assignment01_4-Koma/blob/main/pdf/First_Name_Ei_Last_Name_Eye.pdf)"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
     <a href="https://carhua.myportfolio.com">Carolyn Hua</a>
