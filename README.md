@@ -113,10 +113,6 @@ Figure 6. description for Figure 6
 ## Bibliography 
 [1] Crawford, Kate. Atlas of Ai : Power, Politics, and the Planetary Costs of Artificial Intelligence. Yale University Press, 2021. EBSCOhost,     search.ebscohost.com/login.aspx?direct=true&db=cat08680a&AN=tauc.EBC6478659&site=eds-live&scope=site.
 
-[2] Kim, You-Jin, Misha Sra, and Tobias Höllerer. "Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater." 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2024.
-
-[3] Kim, You-Jin, Misha Sra, and Tobias Höllerer. "Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater." 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2024. 
-
 
 
 <!-- CONTACT -->
