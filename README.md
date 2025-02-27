@@ -88,8 +88,7 @@ For dialogue, I used ChatGPT to iterate different conversation options that alig
 
 Figure 3. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
 
-[![ChatGPT][chatGPT_prompt]](images/chatGPT_prompt.png)
-
+[![ChatGPT][chatGPT_prompt]](https://github.com/woumjai/Assignment01_4-Koma/blob/1f636db04657e4b7a585738164f96c2ed560336c/images/chatGPT_prompt.png)
 Figure 4. description for Figure 5
 
 ## Result and Future Work
