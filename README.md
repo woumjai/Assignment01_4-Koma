@@ -59,19 +59,11 @@ Manga is an ideal medium to explore this tension because of its expressive visua
 
 Using digital illustration tools like Adobe Photoshop alongside AI-assisted design programs, I aim to examine both the opportunities and flaws of AI-generated content. As Crawford argues, AI is deeply embedded in social and economic structures, making its impact on art an urgent and complex issue.
 
-How to use subsection:
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 ## Methodology
-
-Your Methodology and Related Works here: 200 words here.
 
 To achieve my artistic vision, I started by outlining my thoughts on Artificial Intelligence, focusing on how human critical thinking is still essential when working with AI. I chose to explore this theme through yonkoma, a four-panel manga style known for its concise, humorous storytelling.
 My process began with research into yonkoma's structure, which helped me design the flow of the narrative. I then created traditional sketches for the characters and overall composition. This step was important in figuring out a basic composition and understanding of flow. 
-For dialogue, I used ChatGPT to iterate different conversation options that aligned with my theme of basic common sense. I also generated an AI image for one of the panels, using AI to enhance the visuals to bolster the narrative. 
+For dialogue, I used ChatGPT to iterate different conversation options that aligned with my theme of basic common sense. I also generated an AI image for one of the panels, asking specifically to add more fingers. 
 
 
 [![ChatGPT][images-fig3]](https://github.com/woumjai/Assignment01_4-Koma/blob/1f636db04657e4b7a585738164f96c2ed560336c/images/chatGPT_prompt.png)
