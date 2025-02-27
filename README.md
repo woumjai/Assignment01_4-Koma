@@ -42,7 +42,7 @@ Figure 1. This is my 4-comma. The idea is to understand that while AI is increas
 <!-- Abstract -->
 ## Abstract
 
-This paper examines AI-generated errors through a case study of an image-generation mistake, where an AI-created portrait features an excessive number of fingers while maintaining realistic textures and lighting. These anatomical distortions reveal flaws in AI’s pattern recognition and inability to grasp human aesthetics, underscoring the need for oversight to prevent misinformation and misplaced trust.
+This paper explores AI-generated errors through a case study of an image with a backwards hand, highlighting flaws in AI's pattern recognition and lack of common sense. These distortions emphasize the need for human oversight in AI-driven art to prevent misinformation and misplaced trust in automated outputs.
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
@@ -57,10 +57,11 @@ Using digital illustration tools like Adobe Photoshop alongside AI-assisted desi
 
 ## Methodology
 
-To achieve my artistic vision, I started by outlining my thoughts on Artificial Intelligence, focusing on how human critical thinking is still essential when working with AI. I chose to explore this theme through yonkoma, a four-panel manga style known for its concise, humorous storytelling.
-My process began with research into yonkoma's structure, which helped me design the flow of the narrative. I then created traditional sketches for the characters and overall composition. This step was important in figuring out a basic composition and understanding of flow. 
-For dialogue, I used ChatGPT to iterate different conversation options that aligned with my theme of basic common sense. I also generated an AI image for one of the panels, asking specifically to add more fingers. 
+To achieve my artistic vision, I started by outlining my thoughts on Artificial Intelligence, focusing on how human critical thinking remains essential when working with AI. My goal was to highlight the tension between human creativity and AI-generated content, emphasizing the human touch through humor and exaggeration. I chose to explore this theme through yonkoma, a four-panel manga style known for its concise, impactful storytelling.
 
+My process began with research on yonkoma’s structure, which helped me refine the narrative flow. I then created traditional sketches for the characters and composition, ensuring a strong foundation before incorporating AI. For dialogue, I used ChatGPT to iterate different conversation options that aligned with my theme of basic common sense. Additionally, I generated an AI image for one of the panels, intentionally engaging with its flaws. Interestingly, I had to prompt the AI to add extra fingers or wave its hand, as it often tried to obscure anatomical mistakes. By forcing these errors into the spotlight, I underscored the absurdity of AI-generated art and its limitations.
+
+Ultimately, this project successfully reflected my vision by using manga to critique AI’s role in artistic authorship. If expanded, I would push the outlandishness further or explore deeper narratives challenging AI’s creative legitimacy.
 
 [![ChatGPT](images/chatGPT_prompt.png)](https://github.com/woumjai/Assignment01_4-Koma/blob/1f636db04657e4b7a585738164f96c2ed560336c/images/chatGPT_prompt.png)
 
