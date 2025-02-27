@@ -66,7 +66,8 @@ My process began with research into yonkoma's structure, which helped me design 
 For dialogue, I used ChatGPT to iterate different conversation options that aligned with my theme of basic common sense. I also generated an AI image for one of the panels, asking specifically to add more fingers. 
 
 
-[![ChatGPT][images-fig3]](https://github.com/woumjai/Assignment01_4-Koma/blob/1f636db04657e4b7a585738164f96c2ed560336c/images/chatGPT_prompt.png)
+[![ChatGPT](images/chatGPT_prompt.png)](https://github.com/woumjai/Assignment01_4-Koma/blob/1f636db04657e4b7a585738164f96c2ed560336c/images/chatGPT_prompt.png)
+
 
 Figure 3. ChatGPT responses for iteration on panel dialogue
 
@@ -89,7 +90,7 @@ This project highlighted the uncanny flaws of AI-generated art, especially its t
 [![EY_EYE](images/backwards_hand.jpg)](https://github.com/woumjai/Assignment01_4-Koma/blob/f4d7f869926b42fbd30be4ae5b7badce8d34a68b/images/Firefly%20human%20figure%20with%2012%20fingers%20on%20one%20hand%20waving_%3Badd%20more%20fingers%20to%20the%20hand%201935.jpg)
 
 
-Figure 6. description for Figure 6
+Figure 6. Adobe Firefly generated picture
 
 <!-- Bibliography -->
 ## Bibliography 
