@@ -24,7 +24,7 @@ Assignment 1, VIZA 626 Generative Art &amp; Design (Spring 2025)
   <h3 align="center">4-Comma: First Name: Ei | Last Name: Eye</h3>
 
   <p align="center">
-    I created a four-panel yonkoma comic where a stick figure interacts with an AI-generated image that has an absurd number of fingers. The humor      comes from the stick figure earnestly commenting on how realistic the AI image looks, oblivious to its glaring anatomical mistakes.
+    I created a four-panel yonkoma comic where a stick figure interacts with an AI-generated image that has actually has fingers. The humor      comes from the stick figure earnestly commenting on how realistic the AI image looks, oblivious to its glaring anatomical mistakes. They look down at their fingerless hands and realize that they can't really comment on what's real or not. 
     <br />
     <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
@@ -43,10 +43,6 @@ Figure 1. This is my 4-comma. The idea is to understand that while AI is increas
 ## Abstract
 
 This paper examines AI-generated errors through a case study of an image-generation mistake, where an AI-created portrait features an excessive number of fingers while maintaining realistic textures and lighting. These anatomical distortions reveal flaws in AI’s pattern recognition and inability to grasp human aesthetics, underscoring the need for oversight to prevent misinformation and misplaced trust.
-
-[![4-comma][images-fig2]](https://example.com)
-
-Figure 2. Related works in this domain. 
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
@@ -68,20 +64,17 @@ For dialogue, I used ChatGPT to iterate different conversation options that alig
 
 [![ChatGPT](images/chatGPT_prompt.png)](https://github.com/woumjai/Assignment01_4-Koma/blob/1f636db04657e4b7a585738164f96c2ed560336c/images/chatGPT_prompt.png)
 
+Figure 2. ChatGPT responses for iteration on panel dialogue
 
-Figure 3. ChatGPT responses for iteration on panel dialogue
+
 
 [![OpenArt AI](images/hiding_fingers.jpg)](https://github.com/woumjai/Assignment01_4-Koma/blob/88d070f5471072c56cc4eb9ff60fc689bfc3ddfe/images/hiding_fingers.jpg)
-Figure 4. OpenArt AI Result after asking for a human finger with more than 5 fingers
+Figure 3. OpenArt AI Result after asking for a human finger with more than 5 fingers
 
 ## Result and Future Work
 Your Result and Future Work here: 100 words here.
 
 The outcome of my project successfully reflected my vision by using manga to highlight the tension between human creativity and AI-generated content. The humor and exaggerated visuals effectively illustrated the absurdities of AI, like its anatomical mistakes, while emphasizing the human touch. If I were to do it again, I would focus on a different narrative that better addresses the topic or push the outlandishness of the subject further. The project could be expanded by exploring other mediums or incorporating deeper narratives that challenge AI’s role in artistic authorship and originality.
-
-[![4-comma][images-fig5]](https://example.com)
-
-Figure 5. description for Figure 5
 
 ## Conclusion
 
@@ -90,7 +83,7 @@ This project highlighted AI’s struggles with anatomy, though extra fingers onl
 [![EY_EYE](images/backwards_hand.jpg)](https://github.com/woumjai/Assignment01_4-Koma/blob/f4d7f869926b42fbd30be4ae5b7badce8d34a68b/images/Firefly%20human%20figure%20with%2012%20fingers%20on%20one%20hand%20waving_%3Badd%20more%20fingers%20to%20the%20hand%201935.jpg)
 
 
-Figure 6. Adobe Firefly generated picture
+Figure 4. Adobe Firefly generated picture
 
 <!-- Bibliography -->
 ## Bibliography 
