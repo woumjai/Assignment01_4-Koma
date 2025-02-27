@@ -34,7 +34,9 @@ Assignment 1, VIZA 626 Generative Art &amp; Design (Spring 2025)
     <a href="https://sites.google.com/view/viza626/home">VIZA 626</a>
   </p>
 </div>
-![Yonkoma Strip](https://github.com/woumjai/Assignment01_4-Koma/blob/65863ebfbe6ed5e919f666c36f2198ebc45018cc/images/yonkoma_strip.png)
+
+[![Yonkoma Strip](https://github.com/woumjai/Assignment01_4-Koma/raw/65863ebfbe6ed5e919f666c36f2198ebc45018cc/images/yonkoma_strip.png)](https://github.com/woumjai/Assignment01_4-Koma/blob/main/images/yonkoma_strip.png)
+
 
 Figure 1. This is my 4-comma. The idea is to understand that while AI is increasingly getting more realistic, it's still not real and that we as a user still need to understand that anything out of AI can be considered an interpertation on life. 
 
