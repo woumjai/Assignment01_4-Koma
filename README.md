@@ -71,7 +71,7 @@ For dialogue, I used ChatGPT to iterate different conversation options that alig
 
 Figure 3. ChatGPT responses for iteration on panel dialogue
 
-[![OpenArt AI](image/hiding_fingers.png)](https://github.com/woumjai/Assignment01_4-Koma/blob/88d070f5471072c56cc4eb9ff60fc689bfc3ddfe/images/hiding_fingers.jpg)
+[![OpenArt AI](images/hiding_fingers.jpg)](https://github.com/woumjai/Assignment01_4-Koma/blob/88d070f5471072c56cc4eb9ff60fc689bfc3ddfe/images/hiding_fingers.jpg)
 Figure 4. OpenArt AI Result after asking for a human finger with more than 5 fingers
 
 ## Result and Future Work
