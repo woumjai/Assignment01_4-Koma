@@ -86,7 +86,7 @@ Figure 5. description for Figure 5
 
 This project highlighted the uncanny flaws of AI-generated art, especially its tendency to create distorted anatomy, like extra fingers. The most memorable moment was crafting the stick figure’s oblivious reaction, emphasizing how AI errors can go unnoticed. This reinforced the need for critical awareness of AI’s limitations in creative fields.
 
-[![EI_EYE][backwards_hand]](https://github.com/woumjai/Assignment01_4-Koma/blob/f4d7f869926b42fbd30be4ae5b7badce8d34a68b/images/Firefly%20human%20figure%20with%2012%20fingers%20on%20one%20hand%20waving_%3Badd%20more%20fingers%20to%20the%20hand%201935.jpg)
+[![backwards_hand][images-fig6]](https://github.com/woumjai/Assignment01_4-Koma/blob/f4d7f869926b42fbd30be4ae5b7badce8d34a68b/images/Firefly%20human%20figure%20with%2012%20fingers%20on%20one%20hand%20waving_%3Badd%20more%20fingers%20to%20the%20hand%201935.jpg)
 
 Figure 6. description for Figure 6
 
