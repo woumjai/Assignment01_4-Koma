@@ -75,7 +75,6 @@ Figure 2. ChatGPT responses for iteration on panel dialogue
 Figure 3. OpenArt AI Result after asking for a human finger with more than 5 fingers
 
 ## Result and Future Work
-Your Result and Future Work here: 100 words here.
 
 The outcome of my project successfully reflected my vision by using manga to highlight the tension between human creativity and AI-generated content. The humor and exaggerated visuals effectively illustrated the absurdities of AI, like its anatomical mistakes, while emphasizing the human touch. If I were to do it again, I would focus on a different narrative that better addresses the topic or push the outlandishness of the subject further. The project could be expanded by exploring other mediums or incorporating deeper narratives that challenge AI’s role in artistic authorship and originality.
 
