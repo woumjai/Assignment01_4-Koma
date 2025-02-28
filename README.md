@@ -50,11 +50,12 @@ This paper explores AI-generated errors through a case study of an image with a 
 
 As an artist, I constantly push myself to think beyond conventions and expand the boundaries of my work. However, with the rise of generative AI, maintaining authenticity has become increasingly challenging as AI blurs the line between human craftsmanship and machine production. Kate Crawford’s Atlas of AI explores how AI is not just a neutral tool but a system shaped by power, labor, and biases—raising concerns about its role in creative fields [1].
 
-AI’s ability to replicate artistic styles often leads to bizarre distortions—such as extra fingers or unnatural anatomy—while raising questions about originality and artistic intent. Over time, I’ve observed AI evolve from a simple tool to a collaborator—or even an unintentional parody—of artistic expression.
+AI’s ability to replicate artistic styles often leads to bizarre distortions—such as extra fingers or unnatural anatomy—while raising questions about originality and artistic intent. Frischmann and Selinger note, this reliance on technology reshapes human practices, challenging traditional notions of authorship and authenticity in art [2].
+
 
 Manga is an ideal medium to explore this tension because of its expressive visual language and ability to balance humor, drama, and critique. Through dynamic paneling, exaggerated expressions, and visual metaphors, I can highlight AI’s absurdities while emphasizing the irreplaceable human touch in art.
 
-Using digital illustration tools like Adobe Photoshop alongside AI-assisted design programs, I aim to examine both the opportunities and flaws of AI-generated content. As Crawford argues, AI is deeply embedded in social and economic structures, making its impact on art an urgent and complex issue.
+Using digital illustration tools like Adobe Photoshop alongside AI-assisted design programs, I aim to examine both the opportunities and flaws of AI-generated content. As Kurzweil explains, while AI strives to replicate human cognition and creativity, it remains limited by the absence of genuine understanding [3]. 
 
 ## Methodology
 
