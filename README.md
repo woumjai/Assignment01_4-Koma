@@ -63,7 +63,7 @@ To achieve my artistic vision, I started by outlining my thoughts on Artificial 
 
 My process began with research on yonkoma’s structure, which helped me refine the narrative flow. I then created traditional sketches for the characters and composition, ensuring a strong foundation before incorporating AI. For dialogue, I used ChatGPT to iterate different conversation options that aligned with my theme of basic common sense. Additionally, I generated an AI image for one of the panels, intentionally engaging with its flaws. Interestingly, I had to prompt the AI to add extra fingers or wave its hand, as it often tried to obscure anatomical mistakes. By forcing these errors into the spotlight, I underscored the absurdity of AI-generated art and its limitations.
 
-Ultimately, this project successfully reflected my vision by using manga to critique AI’s role in artistic authorship. If expanded, I would push the outlandishness further or explore deeper narratives challenging AI’s creative legitimacy.
+Ultimately, this project successfully reflected my vision by using manga to critique "human" interaction with ai. If expanded, I would push the outlandishness further or explore deeper narratives challenging AI’s creative legitimacy.
 
 [![ChatGPT](images/chatGPT_prompt.png)](https://github.com/woumjai/Assignment01_4-Koma/blob/1f636db04657e4b7a585738164f96c2ed560336c/images/chatGPT_prompt.png)
 
