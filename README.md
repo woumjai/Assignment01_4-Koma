@@ -90,6 +90,8 @@ Figure 4. Adobe Firefly generated picture
 <!-- Bibliography -->
 ## Bibliography 
 [1] Crawford, Kate. Atlas of Ai : Power, Politics, and the Planetary Costs of Artificial Intelligence. Yale University Press, 2021. EBSCOhost,     search.ebscohost.com/login.aspx?direct=true&db=cat08680a&AN=tauc.EBC6478659&site=eds-live&scope=site.
+[2] Henry, Barbara. "Re-Engineering Humanity." Prometheus, vol. 36, no. 3, 2020, pp. 291-293. ProQuest, http://proxy.library.tamu.edu/login?url=https://www.proquest.com/scholarly-journals/re-engineering-humanity/docview/2587957688/se-2. 
+[3] Ray Kurzweil. How to Create a Mind : The Secret of Human Thought Revealed. Penguin Books, 2013. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1124013&site=eds-live&scope=site.
 
 
 
