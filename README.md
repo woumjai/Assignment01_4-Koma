@@ -101,6 +101,7 @@ Figure 4. Adobe Firefly generated picture
 Carolyn Hua - chua@tamu.edu
 
 Personal Website: [https://carhua.myportfolio.com](https://carhua.myportfolio.com/)
+[2][3]
 
 
 
